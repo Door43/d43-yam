@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yam:home|Door43 (yam)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yam|d43-yam repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yam/archive/master.zip|d43-yam.zip]]
+
+**Recent Changes**
+{{changes>ns = yam}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yam|Ethnologue data]]
+
