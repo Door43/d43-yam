@@ -62,6 +62,4 @@ Moses was afraid and did not want to go to Pharaoh because he thought he could n
 
 //A Bible story from: Exodus 1-4//
 
-//~~DISCUSSION~~//
-
- ~~COMPLEX_TABLES~~
+<font 14px line-height: 19px;/inherit;;inherit;;inherit>~~DISCUSSION~~</font>
