@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/yam|Ethnologue data]]
 
-
 **Resources**
 
   * [[yam:obs|Open Bible Stories (yam)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:yam:obs:status}}
